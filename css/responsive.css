@@ -1,0 +1,353 @@
+@media (min-width:320px) and (max-width:575.98px){
+    .banner_text h1{
+        width: 290px;
+    }
+    .banner_text p{
+        width: 300px;
+    } 
+    
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+    }
+    #menupart ul li a {
+        margin-right: 0;
+    }
+      .menu_btn {
+        text-align: center;
+      }   
+      
+      .menu-bg .menu_btn a{
+       margin: 20px auto;
+        display: inline-block;
+      }
+      
+      .banner_text h1{
+        font-size: 40px;
+        color: #FFFEFE;
+        font-weight: 700;
+    }
+    .banner_text p{
+       color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+    .banner_img img {
+        padding-top: 50px;
+    }
+
+/* our project */
+    .titel2 {
+        text-align: left !important;
+    }
+
+/* our project end*/
+
+/* how to work */
+
+
+.pointer_text h5{
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.pointer_text p{
+    width: 220px;
+    font-size: 12px;
+}
+
+.pointer_first{
+    display: flex !important;
+	margin-top: 20px;
+	justify-content: space-between;
+    
+}
+	
+.pointer_2nd{
+    display: flex !important;
+	margin-top: 20px;
+	justify-content: space-between;
+    
+}
+
+/* how to work end */
+
+
+/* feture start */
+
+.feture_head p{
+    font-size: 25px;
+    font-weight: 700;
+    width: 300px;
+    text-align: center;
+}
+
+/* feture end */
+
+/* clied part */
+
+.cliend2nd_text h5{
+    width: 100%;
+    font-weight: 600; 
+    font-size: 23px; 
+}
+
+/* clied end */
+
+
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .banner_img img {
+        padding-top: 50px;
+    }
+   
+    .menu-bg .menu_btn a{
+        margin: 20px auto;
+        display: inline-block;
+     }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+    }
+    
+    .menu_btn {
+        text-align: center;
+      }   
+
+    #menupart ul li a {
+        margin-right: 0;
+    } 
+      
+      .banner_text h1{
+        font-size: 40px;
+        color: #FFFEFE;
+        font-weight: 700;
+    }
+    .banner_text p{
+       color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+
+/* how to work  start*/
+
+.pointer_text h5{
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.pointer_text p{
+    width: 220px;
+    font-size: 12px;
+}
+
+.pointer_first{
+    display: flex !important;
+	margin-top: 20px;
+	justify-content: space-between;
+    
+}
+	
+.pointer_2nd{
+    display: flex !important;
+	margin-top: 20px;
+	justify-content: space-between;
+    
+}
+
+/* how to work end */
+
+/* feture start */
+
+.feture_head h2{
+    font-size: 25px;
+    font-weight: 700;
+    width: 480px;
+}
+
+.feture_text h2{
+    margin: 10px 0;
+    font-size: 15px;
+    font-weight: 700;
+    color: black;
+}
+.feture_text p{
+    width: 100%;
+    font-size: 14px;
+}
+/* feture end */
+
+/* clied part */
+
+.cliend2nd_text h5{
+    width: 100%;
+    font-weight: 600; 
+    font-size: 23px; 
+}
+
+/* clied end */
+
+    
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+    .banner_img img {
+        padding-top: 50px;
+    }
+
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+    }
+      
+    #menupart ul li a {
+        margin-right: 0;
+    }
+      .menu_btn {
+        text-align: center;
+      }   
+      
+      .menu-bg .menu_btn a{
+       margin: 20px auto;
+        display: inline-block;
+      }
+      .banner_text h1{
+        font-size: 40px;
+        color: #FFFEFE;
+        font-weight: 700;
+    }
+    .banner_text p{
+       color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+      
+   /* how to work  start*/
+
+.pointer_text h5{
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.pointer_text p{
+    width: 220px;
+    font-size: 14px;
+}
+
+.pointer_first{
+    display: flex !important;
+	margin-top: 20px;
+	justify-content: space-between;
+    
+}
+	
+.pointer_2nd{
+    display: flex !important;
+	margin-top: 20px;
+	justify-content: space-between;
+    
+}
+
+/* how to work end */
+
+/* feture start */
+
+.feture_head h2{
+    font-size: 25px;
+    font-weight: 700;
+    width: 480px;
+    margin-left: 90px;
+}
+/* feture end */
+
+/* clied part */
+
+.cliend2nd_text h5{
+    width: 100%;
+    font-weight: 600; 
+    font-size: 23px; 
+}
+
+}
+
+@media(min-width:992px) and (max-width:1199.98px){
+    .banner_img img {
+        padding-top: 50px;
+    }
+
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+    }
+
+      .banner_text h1{
+        font-size: 40px;
+        color: #FFFEFE;
+        font-weight: 700;
+    }
+    .banner_text p{
+       color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+}
+
+@media(min-width:1200px) and (max-width:1399.98px){
+    .menu-bg{
+        background-color: #FFFEFE;
+    }
+    .menu-bg img{
+        width: 100%;
+    }
+  
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+    }
+     
+      .banner_text h1{
+        font-size: 40px;
+        color: #FFFEFE;
+        font-weight: 700;
+    }
+    .banner_text p{
+       color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-right: 10px;
+    }
+}
